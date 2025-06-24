@@ -16,4 +16,3 @@ function App() {
 }
 
 export default App;
-//         <button type="submit">Register</button>
