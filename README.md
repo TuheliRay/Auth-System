@@ -12,7 +12,7 @@ Backend: Node.js, Express.js
 
 Database: MySQL
 
-Authentication: bcrypt for password hashing, (JWT or session – replace based on what you used)
+Authentication: bcrypt for password hashing.
 
 
 ✅ Features
